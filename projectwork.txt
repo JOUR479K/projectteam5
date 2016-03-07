@@ -1,0 +1,41 @@
+Team 5
+Alex Pamias
+Clarice Silber
+Erik Swann
+
+
+2 Final Project Options
+
+
+News Resource Preferences in College Students
+
+As of right now, we are looking for possible ways to collect data.  We have also been looking at sites to not only find 
+out how they organized their data, but also how they collected their data.  One particular site that we found was College
+Break Magazine's study done back in 2013.  In the study, they surveyed 260 college students to check their usage of social
+media sites like Facebook, Pinterest, and instagram.  The model for their article is not to complex but effective.  They 
+created a chart with the percentages and placed it in the article for the story.  They also re-stated the percentages in 
+the actual text of the story.  This leads me into the minimum viable thing that we could do for this project.  The 
+minimum would probably be something like this text story model.  However, we would ideally like to do a site that 
+takes the information and places it in a more interactive context.  For example, we could have a website where the
+main page features different buttons highlighted with each major social media site name.  Each would take the user to a 
+specific section with the stats for that site.  There could also be a page that features the stats of every site so that 
+userscan actually see a side-by-side comparison.  Right now, we're not sure of how viable this would be, but with more research, 
+we can see how we could go about building an interactive site.  If we could compare it to any site right now, it would 
+actually be the Study Breaks site.  This will probably change as we go, but right now, this site seems like a nice template  
+because it is efficient, and the homepage is clean and straightforward.
+
+
+Frequency of Particular Crimes in College Park
+
+As you mentioned in your feedback, the data for this story would be somewhat easier to obtain.  We could find this from
+a few places mainly the UMPD's website.  This won't be a huge source of information, but the fact that we get alerts on
+crimes that have recently occured is also somewhat helpful.  In terms of the actual site, the minimum viable thing that
+we could create is a basic website that organizes the different crimes into rows and columns.  It would be similar to the
+other site only it would not utilize charts.  In essence, each page cataloguing each crime would look like a spreadsheet.
+This would be the minimum viable thing we could do.  As we said with the other story, we ideally want something more
+interactive.  In this case, we could try creating a webpage with a text story, and an interactive movable list for users
+to click to access pages with different crime stats.  The pages themselves could feature interactive tools for the users to
+organizethe stats in different ways like how we change things in a Pivot table.  The main page could also include a map 
+with iconsto indicate where in College Park certain crimes have occured.  At this point, if we could compare this to any 
+site, it would be spot crime which has a great crime browsing system and a great example of how to utilize a map on a 
+homepage.

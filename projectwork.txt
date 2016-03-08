@@ -31,11 +31,11 @@ As you mentioned in your feedback, the data for this story would be somewhat eas
 a few places mainly the UMPD's website.  This won't be a huge source of information, but the fact that we get alerts on
 crimes that have recently occured is also somewhat helpful.  In terms of the actual site, the minimum viable thing that
 we could create is a basic website that organizes the different crimes into rows and columns.  It would be similar to the
-other site only it would not utilize charts.  In essence, each page cataloguing each crime would look like a spreadsheet.
+other site only it would not utilize charts. In essence, each page cataloguing each crime would look like a spreadsheet.
 This would be the minimum viable thing we could do.  As we said with the other story, we ideally want something more
 interactive.  In this case, we could try creating a webpage with a text story, and an interactive movable list for users
 to click to access pages with different crime stats.  The pages themselves could feature interactive tools for the users to
 organizethe stats in different ways like how we change things in a Pivot table.  The main page could also include a map 
 with iconsto indicate where in College Park certain crimes have occured.  At this point, if we could compare this to any 
 site, it would be spot crime which has a great crime browsing system and a great example of how to utilize a map on a 
-homepage.
+homepage. An example of a site that does something similar with crime rates is NeighborhoodScout.com. The Website provides maps of cities divided into different neighborhoods. Users can click on specific neighborhoods and get a snapshot of the crime rates and statistics of that area. The website also provides information on the types of crimes that occur in each neighborhood. The way that they gather data is through the FBI and Justice Department along with information from all 18,000 local law enforcement agencies in the U.S. They developed a mathematical algorithm which would allow them to statistically estimate the incidences of crime for each neighborhood. For our webpage we would be looking at data from the law enforcement agency in College Park. 

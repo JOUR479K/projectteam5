@@ -1,0 +1,16 @@
+Team 5
+Alex Pamias
+Clarice Silber 
+Erik Swann
+
+Project Description
+
+Our system tackles portraying various layers of crime in College Park through presenting a series of interactive 
+statistical and categorical graphics. In doing so, users are able to have an engaging experience, in which they can 
+understand different relevant crime rates and statistics in a visual manner. Implementing a map assists in clearly 
+representing crime hot spots in the College Park area, and giving the user an understanding of which crimes occur the 
+most in which particular areas. The information presented relies on statistical data collected that ensures accurate facts 
+and figures.
+
+
+https://docs.google.com/drawings/d/1dMedGl71ZKgKsgH_M7HxRagP_KxUpRyBUxFoz_t8fQw/edit?ts=56f16324

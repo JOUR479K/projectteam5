@@ -1,0 +1,60 @@
+Clarice Silber
+Alex Pamias
+Erik Swann
+
+Team 5 Project Overview
+
+We entered this project with the idea of wanting to do a topic that affected or is related to stuents the University of 
+Maryland.  With this, I developed three ideas: internet trends among college students, employment among students after
+graduation, and crime frequency in College Park.  After looking over them all we decided that the crimes topic would be
+interesting, and that it could provide some insightful information about the safety of College Park.
+
+Our initial ideas for this project were very complex.  In it, we were going to categorize crimes by very specific types
+like vandalism and homicide.  We were also going to include factors like gender and ethnicity.  All of this info was
+going to be accessible through a map.  As the weeks went on, we came to the conclusion that this idea was a little too
+ambitious for our skill level.  With this, we decided to scale it back to utilizing a map with crimes in the area that 
+could be accessed through a web page.
+
+The site that served as our early inspiration was NeighborhoodScout.  We really liked their straightforward yet visually
+appealing design
+
+http://www.neighborhoodscout.com/md/college-park/
+
+We had also planned to get our data from them, but we did not discover until late that we had to pay for their information.
+With this, we decided to just use UMPD's crime activity logs for our data.  We also settled on using the last six months
+for our data.
+
+Now, we really began on working on the bones of the project.  The first thing that we had to do was transfer the data into
+a single CSV file.  We oringally wanted to use Magic to do this, but the file came out looking relatively unorganized.It 
+was at this point that you suggested that we re-work our "first webscraper" from class to help us.  After finally 
+re-accessing it, we still ran into a problem.  The data was accurately retrieved but the locations were put on a different
+row due to the unusual set up of UMPD's tables.  At this point, you provided us with code that allowed us to loop the rows
+in a different fashion to fix the problem.  After gathering all of the information, we tranfered it to Google Fusion 
+Tables, and created a map.
+
+During our data gathering, we decided to slightly alter the info that we included in our data.  To see the difference,
+look at data2.csv (original) and sixmonthcrimes.csv (new).
+
+After creating the map, we began work on the web page that we wanted for the information.  We set to work on creating a
+simple web page to include the map on.  We also planned to include a brief interview with a UMPD official on the stats
+that we found to be included on the page as a text element.  We thought that it would be somewhat interesting for users
+to see what the police department actually had to say about the amount of crime in the area.  The page came out nicely, 
+but unfortunately, at this point, we have not heard back from the official.
+
+Amid all of this, there was one more element that we considered adding to this project.  We thought about incorporating a
+Twitterbot to post on different crime events as they are added.  This way our info could reach people through social media
+as well.  We thought of each tweet as being a small tagline that included the kind of crime, the location, and time of the 
+crime.  For instance, one might read: "Sexual Assault at University View at 10:45 p.m."  Had we gone through with this, we
+would have looked to Team 2's WMATA Twitterbot for inspiration.  Because tweets can only be so many characters, we thought 
+that these would be the key facts to include in a brief tweet.  After thinking more about it, we decided that although the 
+idea was nice and could have effective, it was not completely necessary to the project.
+
+Overall, we are very happy with our project.  Although we did not add the Twitterbot, we feel that we have a solid scraper
+which was not only effective in retrieving our data, but could be used for other data as well.  We are particularly proud
+of the map as it serves as the most informative and interactive element of our piece.  We also believe that we have a 
+very simple yet direct page that users can go to find information about crime in their area.  If we were to keep and 
+publish this as a real site, we would definitely find ways to update its look and add other elements to it. Also, if we 
+kept using this site we would use the scraper to update our data and add it to our map.  Although the project is not as 
+big as we once thought it would be, we are still pleased with the results.  Everything works relatively well, and the 
+project does what we wanted it to do: inform people of important crime data.We worked hard and with your help, we were able
+to overcomme some key obstacles.  
